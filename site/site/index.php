@@ -33,7 +33,7 @@ require_once './shared/sessions.php';
               <div class="column is-5-tablet is-4-desktop is-3-widescreen">
                 <form action="" class="box">
                   <div class="field">
-                    <label for="" class="label">Email</label>
+                    <label for="" class="label">Email probando</label>
                     <div class="control has-icons-left">
                       <input type="email" name="email" class="input" value="<?= $email ?? '' ?>" required>
                       <span class="icon is-small is-left">
